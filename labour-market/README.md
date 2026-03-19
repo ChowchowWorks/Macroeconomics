@@ -54,9 +54,10 @@ As a result, there is a negative relationship between energy prices and economic
 
 Using the production function:
 
-[
-Y = A \cdot F(K, N)
-]
+<p align="center">
+  <img src="plots/production-function.png" width="300"><br>
+  <em>Y = A · F(K, N)</em>
+</p>
 
 (Y): Output
 
