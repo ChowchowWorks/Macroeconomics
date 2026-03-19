@@ -21,7 +21,8 @@ This project draws on methods from ST3131: Regression Analysis.
 **Key takeaways from Abel, Bernanke, and Croushore — Macroeconomics:**
 
 1. **Oil Shocks and the Effects on Total Factor Productivity**
-![Oil Shocks on TFP](plots/tfp_oilshocks.png)
+   
+![Oil Shocks on TFP](Macroeconomics/plots/tfp_oilshocks.png)
 
 **Description**
 
