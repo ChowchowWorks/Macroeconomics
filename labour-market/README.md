@@ -29,14 +29,11 @@ This project draws on methods from ST3131: Regression Analysis.
 The oil shock periods recorded are: 
 1.  1973 Oil Embargo (Yom Kippur War)
 → Oct 1973 – Mar 1974
-
-1979 Iranian Revolution / Iran–Iraq War
+2. 1979 Iranian Revolution / Iran–Iraq War
 → Jan 1979 – Dec 1980
-
-1990 Gulf War (Invasion of Kuwait)
+3. 1990 Gulf War (Invasion of Kuwait)
 → Aug 1990 – Jan 1991
-
-2000s Oil Price Surge (Pre–Great Recession Peak)
+4. 2000s Oil Price Surge (Pre–Great Recession Peak)
 → Jan 2007 – Jul 2008
 
 **Observations**
@@ -61,6 +58,4 @@ Using the production function:
 
 (Y): Output (K): Capital (N): Labour (A): Total Factor Productivity (TFP)
 
-Energy price shocks are captured within TFP (A), as they affect overall production efficiency.
-
-Thus, the observed decline in TFP during oil shocks reflects the adverse impact of rising energy costs on aggregate output.
+Energy price shocks are captured within TFP (A), as they affect overall production efficiency. Thus, the observed decline in TFP during oil shocks reflects the adverse impact of rising energy costs on aggregate output.
