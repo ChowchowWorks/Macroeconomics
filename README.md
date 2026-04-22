@@ -1,6 +1,6 @@
 # Macroeconomic Analysis
 
-This repository is dedicated to practicing macroeconomic data analysis and data visualisation techniques.
+This repository is dedicated to macroeconomic data analysis and data visualisation techniques.
 
 Knowledge applied in this repository comes from EC2102 Macroeconomic Analysis I and DSA2101 Data Visualisation
 
